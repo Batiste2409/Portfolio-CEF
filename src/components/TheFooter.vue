@@ -31,7 +31,7 @@
     width: 500px;
     margin: auto;
     color: whitesmoke;
-    background-color: #0400ff;
+    background-color: #000000;
   }
 
   .container {

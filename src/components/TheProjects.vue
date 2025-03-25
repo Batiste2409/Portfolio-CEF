@@ -39,24 +39,22 @@ export default {
 <style scoped>
 header {
   color: whitesmoke;
-  background-color: #0400ff;
+  background-color: #000000;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 20px;
+  display: block; 
+  text-align: center;
   margin-top: 20px;
 }
 
 
 .image-container {
   position: relative;
-  display: inline-block;
+  display: block; 
   text-align: center;
   cursor: pointer;
   width: 150px;
+  margin: 20px auto;
 }
-
 
 .image-title {
   font-size: 16px;

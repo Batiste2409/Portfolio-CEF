@@ -16,6 +16,7 @@
   </template>
   
   <script setup>
+    document.body.style.backgroundColor = "#0400ff";
   </script>
   
   <style scoped>
@@ -25,12 +26,13 @@
     border-radius: 50%;
     display: block;
     margin: auto; 
-    border: 3px solid rgb(21, 255, 0); 
+    border: 3px solid rgb(0, 38, 255); 
     cursor: zoom-in; 
   }
 
     h1, h2, p {
      text-align: center;
+     color: whitesmoke;
 }
 
 address{ 
@@ -50,9 +52,13 @@ address{
 
     header{
       color: whitesmoke;
-      background-color: #0400ff;
+      background-color: #000000;
       width: 500px;
-      margin: auto;
+      margin: 50px auto;
+      padding: 10px;
+      border-radius: 12px;
+      border: 2px solid whitesmoke;
+      
     }
 
   </style>

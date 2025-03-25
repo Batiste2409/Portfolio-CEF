@@ -15,7 +15,7 @@
 <style scoped>
   main{
       color: whitesmoke;
-      background-color: #0400ff;
+      background-color: #000000;
       width: 500px;
       margin: auto;
   }

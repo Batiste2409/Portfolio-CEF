@@ -67,7 +67,7 @@ form {
   max-width: 500px;
   margin: 0 auto;
   padding: 20px;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   border: 1px solid #ddd;
   border-radius: 5px;
 }
@@ -91,7 +91,7 @@ input,
 textarea {
   width: 100%;
   padding: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #ffffff;
   border-radius: 4px;
   box-sizing: border-box;
 }
